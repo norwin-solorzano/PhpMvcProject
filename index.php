@@ -5,6 +5,6 @@
  * and open the template in the editor.
  */
  
- 
- echo 'Norwin Solorzano test'
+
+
 ?>
